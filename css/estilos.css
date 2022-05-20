@@ -20,3 +20,11 @@ body
 {
     font-size: 32px;
 }
+
+#footer
+{
+    background: #777777;
+    color: white;
+    text-align: center;
+    padding: 2em;
+}
