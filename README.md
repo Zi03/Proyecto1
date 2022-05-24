@@ -10,5 +10,6 @@ En el curso se ven muchas cosas
 * flujos de trabajo
 * buenas practicas
 * personalidades multiples
+* Creado por ZZD
 
 Recordatorio: **este README es un chiste, un ejemplo** para el curso de Platzi
